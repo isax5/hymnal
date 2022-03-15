@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "en-newVersion",
+    "ISOLanguage": "en",
+    "InstrumentalMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/english/1985%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  },
+  {
+    "Id": "en-oldVersion",
+    "ISOLanguage": "en",
+    "InstrumentalMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/english/1941%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  },
+  {
+    "Id": "es-newVersion",
+    "ISOLanguage": "es",
+    "InstrumentalMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/spanish/2009%20version/instrumental/###.mp3",
+    "SungMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/spanish/2009%20version/sung/###.mp3"
+  },
+  {
+    "Id": "es-oldVersion",
+    "ISOLanguage": "es",
+    "InstrumentalMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/spanish/1962%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  },
+  {
+    "Id": "pt-newVersion",
+    "ISOLanguage": "pt",
+    "InstrumentalMusicUrl": null,
+    "SungMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/portuguese/1996%20version/sung/###.mp3"
+  },
+  {
+    "Id": "ru-newVersion",
+    "ISOLanguage": "ru",
+    "InstrumentalMusicUrl": "https://s3.us-east-2.wasabisys.com/hymnalstorage/russian/1997%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  }
+]
