@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Id": "en-newVersion",
+    "ISOLanguage": "en",
+    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/english/1985%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  },
+  {
+    "Id": "en-oldVersion",
+    "ISOLanguage": "en",
+    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/english/1941%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  }
+]
