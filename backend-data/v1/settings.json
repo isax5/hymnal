@@ -10,5 +10,11 @@
     "ISOLanguage": "en",
     "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/english/1941%20version/instrumental/###.mp3",
     "SungMusicUrl": null
+  },
+  {
+    "Id": "ru-newVersion",
+    "ISOLanguage": "ru",
+    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/russian/1997%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
   }
 ]
