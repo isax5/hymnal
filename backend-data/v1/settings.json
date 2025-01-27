@@ -18,6 +18,18 @@
     "SungMusicUrl": "https://isax5.github.io/hymnal/music/spanish/2009%20version/sung/###.mp3"
   },
   {
+    "Id": "es-oldVersion",
+    "ISOLanguage": "es",
+    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/spanish/1962%20version/instrumental/###.mp3",
+    "SungMusicUrl": null
+  },
+  {
+    "Id": "pt-newVersion",
+    "ISOLanguage": "pt",
+    "InstrumentalMusicUrl": null,
+    "SungMusicUrl": "https://isax5.github.io/hymnal/music/portuguese/1996%20version/sung/###.mp3"
+  },
+  {
     "Id": "ru-newVersion",
     "ISOLanguage": "ru",
     "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/russian/1997%20version/instrumental/###.mp3",
