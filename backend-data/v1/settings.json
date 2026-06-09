@@ -2,7 +2,7 @@
   {
     "Id": "en-newVersion",
     "ISOLanguage": "en",
-    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/english/1985%20version/instrumental/###.mp3",
+    "InstrumentalMusicUrl": "https://isax5.github.io/hymnal/music/english/1985%20version/instrumental/###.m4a",
     "SungMusicUrl": null
   },
   {
@@ -27,7 +27,7 @@
     "Id": "pt-newVersion",
     "ISOLanguage": "pt",
     "InstrumentalMusicUrl": null,
-    "SungMusicUrl": "https://isax5.github.io/hymnal/music/portuguese/1996%20version/sung/###.mp3"
+    "SungMusicUrl": "https://isax5.github.io/hymnal/music/portuguese/1996%20version/sung/###.m4a"
   },
   {
     "Id": "ru-newVersion",
